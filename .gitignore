@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+bin/
+dist/
+*.o
+*.out
+*.exe
+
+# Temporary files
+__n*
+*.tty
+.DS_Store
+*.swp
+*~
