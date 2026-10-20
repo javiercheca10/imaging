@@ -12,3 +12,12 @@ __n*
 .DS_Store
 *.swp
 *~
+
+# Tests
+tests/
+test/
+**/tests/
+**/test/
+MPTests.h
+*Test*.cpp
+*test*.cpp
